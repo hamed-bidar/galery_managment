@@ -1,0 +1,8 @@
+server:
+  port:8080
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/gallery_management
+    username: postgres
+    password: 123
